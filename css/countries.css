@@ -1,0 +1,12 @@
+#all_country{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.countries{
+  background-color: bisque;
+  padding: 20px;
+  margin-bottom: 10px;
+  border: 2px solid gold;
+  border-radius: 10px;
+  margin-left:5px;
+}
