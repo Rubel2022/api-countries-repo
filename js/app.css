@@ -1,0 +1,11 @@
+#posts{
+  background-color: beige;
+}
+.post-style{
+  background-color: lightsalmon;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 2px solid rgb(0, 174, 255)
+
+}
